@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#5B9BD5"             # Calm, muted sky-blue accent
+backgroundColor = "#FAFCFF"          # Nearly pure white main canvas so data pops
+secondaryBackgroundColor = "#EFF5FA" # Very soft mist-blue sidebar
+textColor = "#1E293B"                # Soft charcoal-slate text (easier on eyes than pure black)
+font = "sans serif"
